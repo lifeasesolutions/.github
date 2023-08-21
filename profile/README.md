@@ -1,4 +1,4 @@
-<img src="https://github.com/lifeasesolutions/.github/assets/134608588/2a1cbe18-746b-4f32-9b0e-08614d11b903.png" alt="Lifeasesolutions Logo" width="200" height="200">
+<img src="https://github.com/lifeasesolutions/.github/assets/134608588/e9a52396-e92b-40d3-9c3d-ee04f62c1f87.png" alt="Lifeasesolutions Logo" width="200" height="200">
 
 # Welcome to Lifeasesolutions LLP
 
